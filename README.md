@@ -7,7 +7,7 @@ I'm Desire Vargas, a student at Brigham Young University-Idaho interested in Sof
 
 ## About Me
 
-- I'm currently leraning Software Developing
+- I'm currently learning Software Developing
 - My goals are to become a Frontend Engineer and Web Designer
 
 
